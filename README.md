@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Wagner Daniell 👋
 
 - 🔭 Hoje, estou cursando Ciência da Computação na UNINASSAU.
-- 🌱 Estudando lógica de programação e back-end com JavaScript e Python.
 - 📫 Contate-me no email: wagnerdaniell06@gmail.com
 - 😄 Pronouns: ele/dele
 
