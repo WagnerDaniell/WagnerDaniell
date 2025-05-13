@@ -21,7 +21,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-##
+  ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WagnerDaniell&show_icons=true&theme=dark)
 
