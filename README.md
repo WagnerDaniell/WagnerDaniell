@@ -134,7 +134,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" 
+    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerdaniell&show_icons=true&theme=radical)" 
   />
 
 <img 
